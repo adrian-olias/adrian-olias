@@ -1,5 +1,3 @@
-# Adrián Olías Ortiz
-
 DevOps & Cloud Consultant · Spain · B2B
 
 Focused on cloud infrastructure, platform engineering, Kubernetes, Terraform and CI/CD.
