@@ -1,4 +1,4 @@
-# DevOps & Cloud Consultant Engineer · Spain · B2B
+# DevOps Engineer · Cloud Platforms · B2B Contractor
 
 Focused on cloud infrastructure, platform engineering, Kubernetes, Terraform and CI/CD.
 
