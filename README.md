@@ -1,4 +1,4 @@
-DevOps & Cloud Consultant · Spain · B2B
+#DevOps & Cloud Consultant Engineer · Spain · B2B
 
 Focused on cloud infrastructure, platform engineering, Kubernetes, Terraform and CI/CD.
 
@@ -10,4 +10,4 @@ Focused on cloud infrastructure, platform engineering, Kubernetes, Terraform and
 - [**Azure Private AI Platform — CI/CD & Delivery**](https://github.com/adrian-olias/azure-private-ai-cicd) — 
   Complete CI/CD pipeline and multi-container lifecycle automation. Features **GitHub Actions** matrix builds, immutable ACR tagging, and self-hosted Azure runners deploying a fully agnostic, dynamically-configured 8-container AI stack (Ollama, ChromaDB, Open-WebUI) tied to Azure Storage.
 
-[LinkedIn](https://www.linkedin.com/in/adriolias/) 
+
