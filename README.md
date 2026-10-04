@@ -1,4 +1,4 @@
-# DevOps Engineer · B2B Contractor
+# DevOps Engineer 
 
 Focused on cloud infrastructure, platform engineering, Kubernetes, Terraform and CI/CD.
 
