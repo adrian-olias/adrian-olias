@@ -5,9 +5,9 @@ Focused on cloud infrastructure, platform engineering, Kubernetes, Terraform and
 ## Featured Projects
 
 - [**Azure Private AI Lab — Infrastructure**](https://github.com/adrian-olias/terraform-azure-private-ai) — 
-  Infrastructure-as-code for a secure, private AI platform on Azure. Built entirely from scratch with **Terraform**, featuring a "Zero Trust" isolated VM model behind Bastion/Cloudflare, robust Network Security Groups, Managed Identities, and Key Vault integration.
+  Infrastructure for a private Azure VM, following the environments-and-modules pattern: a root module per environment composes reusable child modules, and all values live in .auto.tfvars files, so the setup is data-driven and scales by adding entries rather than code.
 
 - [**Azure Private AI Platform — CI/CD & Delivery**](https://github.com/adrian-olias/azure-private-ai-cicd) — 
-  Complete CI/CD pipeline and multi-container lifecycle automation. Features **GitHub Actions** matrix builds, immutable ACR tagging, and self-hosted Azure runners deploying a fully agnostic, dynamically-configured 8-container AI stack (Ollama, ChromaDB, Open-WebUI) tied to Azure Storage.
+  A private AI assistant on Azure, deployed by GitHub Actions CI/CD: changed services are built on pull requests, and merges deploy them to a VM
 
 
