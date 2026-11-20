@@ -3,7 +3,7 @@
 Focused on cloud infrastructure, platform engineering, Kubernetes, Terraform and CI/CD.
 
 ## Featured Projects
-- [**GitOps Platform**]—
+- [**GitOps Platform**](https://adrian-olias.dev) —
   The platform behind this portfolio, Kube Ping and Kube Dino: a VPS set up with [ansible-bootstrap](https://github.com/adrian-olias/ansible-bootstrap), a single-node k3s cluster, reusable [Helm charts](https://github.com/adrian-olias/helm-charts), and every change deployed by Argo   CD from Git using the App of Apps pattern. Live demos: [Kube Ping](https://adrian-olias.dev/kube-ping/) and [Kube Dino](https://adrian-olias.dev/kube-dino/).
 
 - [**Azure Private AI Lab — Infrastructure**](https://github.com/adrian-olias/terraform-azure-private-ai) — 
